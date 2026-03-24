@@ -95,4 +95,7 @@ This project focuses on building a **high-performance UI without using any exter
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+⭐ ⭐ ⭐ 
+     ⭐ ⭐ ⭐ 
+             ⭐ ⭐ ⭐ 
+                    ⭐ ⭐ ⭐ 
