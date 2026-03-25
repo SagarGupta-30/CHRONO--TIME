@@ -6,7 +6,7 @@ A sleek and interactive **Clock + Stopwatch web application** built using pure H
 
 ---
 
-## 🚀 Features
+## Features
 
 * 🕒 **Real-time Analog + Digital Clock**
 * 🌍 **Multi-Timezone Support** (Local, UTC, New York)
